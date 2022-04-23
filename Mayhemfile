@@ -1,0 +1,5 @@
+project: mayhem-cmake-example
+target: ghcr.io/cjgrand1/mayhem-cmake-example
+
+cmds:
+  - cmd: /fuzzme
